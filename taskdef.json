@@ -1,5 +1,4 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:eu-central-1:371417955885:task-definition/spring_app:3",
     "containerDefinitions": [
         {
             "name": "spring_ex",
